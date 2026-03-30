@@ -47,9 +47,9 @@ Currently seeking a <b>Work Integrated Learning (WIL) internship</b> to apply te
 
 # 🎓 Education
 
-### 🏫 Cape Peninsula University of Technology
-**Diploma in Information Technology**  
-2024 – 2026
+### 🏫 Grassdale High School
+**National Senior Certificate**  
+2021
 
 ### 🏫 Cape Peninsula University of Technology
 **Higher Certificate in IT**  
@@ -59,9 +59,9 @@ Currently seeking a <b>Work Integrated Learning (WIL) internship</b> to apply te
 **IT Essentials**  
 2023
 
-### 🏫 Grassdale High School
-**National Senior Certificate**  
-2021
+### 🏫 Cape Peninsula University of Technology
+**Diploma in Information Technology**  
+2024 – 2026
 
 ---
 
