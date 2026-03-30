@@ -105,7 +105,7 @@ Currently seeking a <b>Work Integrated Learning (WIL) internship</b> to apply te
 
 🎨 **Prototype**
 
-https://www.figma.com/proto/2o459QPq1FgqfB1zrhvukq/Untitled
+[View Figma Prototype](https://www.figma.com/proto/2o459QPq1FgqfB1zrhvukq/Untitled)
 
 ---
 
