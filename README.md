@@ -125,7 +125,8 @@ Supervisor
 
 ---
 
-<video width="100%" controls>
+<h3 align="center">🎥 Mock Interview Video</h3>
+<video width="600" controls>
   <source src="Rameez-Karriem-Interveiw (1) (1).mp4" type="video/mp4">
 </video>
 <p align="center">
