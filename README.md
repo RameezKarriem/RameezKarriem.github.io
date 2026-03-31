@@ -132,3 +132,19 @@ Supervisor
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
+
+---
+
+# 🎥 Interview Video
+
+<p align="center">
+  <video width="80%" controls style="max-width: 800px; border-radius: 12px;">
+    <source src="assets/demo-video.mp4" type="video/mp4">
+    Your browser does not support the video tag. Please view the video directly: 
+    <a href="assets/demo-video.mp4">Download video</a>
+  </video>
+</p>
+
+<p align="center">
+  <em>Demo of Student Management System in action</em>
+</p>
