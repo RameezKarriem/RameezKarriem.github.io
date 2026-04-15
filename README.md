@@ -84,10 +84,14 @@ Currently seeking a <b>Work Integrated Learning (WIL) internship</b> to apply te
 ## 🖥 Student Management System
 **Java Desktop Application | 2025**
 
-- Built a **Java Swing application** in an agile team  
-- Implemented **object-oriented programming principles**  
-- Integrated **SQL database storage**  
-- Added **GUI validation and exception handling**
+A Java Swing-based application developed in a team environment to manage student records.  
+The system allows users to add, update, and store student information using a connected SQL database.
+
+**Key Features:**
+- Object-oriented design using classes and encapsulation  
+- Integration with SQL database for persistent storage  
+- Input validation and exception handling for data accuracy  
+- Graphical User Interface built with Java Swing
 
 🔗 **Repository**
 
@@ -98,10 +102,14 @@ Currently seeking a <b>Work Integrated Learning (WIL) internship</b> to apply te
 ## 🎨 NSFAS App Redesign
 **UI/UX Project | 2025**
 
-- Redesigned the **NSFAS mobile application interface**
-- Analyzed **user pain points**
-- Created **wireframes and high-fidelity prototypes**
-- Designed using **Figma**
+A redesign of the NSFAS mobile application aimed at improving usability and user experience.  
+The project focused on identifying user pain points and creating a more intuitive interface.
+
+**Key Features:**
+- User research and usability analysis  
+- Wireframes and high-fidelity UI prototypes  
+- Improved navigation and accessibility  
+- Designed using Figma 
 
 🎨 **Prototype**
 
