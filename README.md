@@ -138,6 +138,26 @@ Supervisor
   <source src="Rameez-Karriem-Interveiw (1) (1).mp4" type="video/mp4">
 </video>
 <p align="center">
+
+---
+
+## Reflection
+
+This project involved creating a personal portfolio using Markdown, developing a professional CV, and recording and editing an interview video. Through this process, I gained both technical and personal skills that contributed to my overall development.
+
+When I was first introduced to Markdown, I did not find it difficult to learn. The syntax was simple and easy to understand. However, I did experience some challenges when applying Markdown to structure my CV within my GitHub repository. Formatting the layout correctly, aligning sections, and ensuring that elements such as headings, links, and images displayed properly required practice. As I continued working on the repository, I became more comfortable using Markdown and was able to create a clean, structured, and visually appealing CV.
+
+While building my CV, I learned important principles about professional presentation. I gained a clear understanding of what information should be included, such as relevant skills, education, and experience, as well as what should be excluded. This helped me think more critically about how to present myself to potential employers. Additionally, I learned how to organise information effectively so that it is easy to read and professional in appearance.
+
+The interview video was one of the more challenging aspects of the project. I used my phone to record the video and the mobile application CapCut to edit it. During the recording process, I had to repeat the video multiple times due to stuttering, forgetting what I wanted to say, and struggling to maintain proper eye contact. This highlighted areas where I need to improve, particularly in terms of confidence and communication skills.
+
+Despite these challenges, the experience helped me improve my ability to present myself. I also learned basic video editing skills, such as trimming clips and improving the overall flow of the video. These skills are valuable and can be applied in future academic and professional tasks.
+
+If I were to complete this project again, I would focus more on preparation, especially for the interview video. Preparing my answers in advance and practicing my delivery would help reduce mistakes and improve my confidence. This would also make the recording process more efficient.
+
+In conclusion, this project allowed me to develop both technical and soft skills. I improved my understanding of Markdown, learned how to create a professional CV, and became more aware of my communication abilities. These skills will be beneficial for my future studies and career development.
+
+---
   
 ✨ Thank you for visiting my GitHub profile!
 </p>
