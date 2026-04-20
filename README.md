@@ -137,7 +137,6 @@ Supervisor
 <video width="400" height="600" controls>
   <source src="Rameez-Karriem-Interveiw (1) (1).mp4" type="video/mp4">
 </video>
-<p align="center">
 
 ---
 
@@ -158,7 +157,8 @@ If I were to complete this project again, I would focus more on preparation, esp
 In conclusion, this project allowed me to develop both technical and soft skills. I improved my understanding of Markdown, learned how to create a professional CV, and became more aware of my communication abilities. These skills will be beneficial for my future studies and career development.
 
 ---
-  
+
+<p align="center"> 
 ✨ Thank you for visiting my GitHub profile!
 </p>
 
