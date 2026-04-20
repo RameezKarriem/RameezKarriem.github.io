@@ -141,7 +141,7 @@ Supervisor
 
 ---
 
-## Reflection
+# Reflection
 
 This project involved creating a personal portfolio using Markdown, developing a professional CV, and recording and editing an interview video. Through this process, I gained both technical and personal skills that contributed to my overall development.
 
