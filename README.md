@@ -117,6 +117,102 @@ The project focused on identifying user pain points and creating a more intuitiv
 
 ---
 
+
+# 🌧️ PRP370 Assessment 2 – SAEON
+
+## SAEON Real-Time Rainfall Monitoring System
+
+**My Role:** Agile Lead and Presenter
+
+## 1. Agile Team Charter
+
+📄 [View Agile Team Charter](PRP370-SAEON/Agile%20Team%20Charter.pdf)
+
+Reflection 1: Agile Team Charter
+
+Working on the SAEON Real-Time Rainfall Monitoring System helped me understand why an Agile Team Charter is important when working in a group. As the Agile Lead, my responsibility was to help keep the team organised, encourage communication and make sure that everyone understood what needed to be done.
+
+The Team Charter outlined our different roles, responsibilities, working agreements and expectations. This was useful because our project involved several areas, including hardware development, backend integration, frontend design and research. Each member had different responsibilities, but we still needed to work towards the same goal.
+
+One thing I learned was that assigning roles is only one part of teamwork. Communication and accountability are just as important because one person's progress can affect another person's work. I also realised that having agreed procedures makes it easier to address problems when tasks are delayed or responsibilities are unclear.
+
+This experience helped me develop a better understanding of leadership and teamwork. If I worked on a similar project again, I would focus on reviewing our working agreements more regularly and making sure that important decisions were documented.
+
+---
+
+## 2. User Stories and Tasks
+
+📄 [View User Stories and Tasks](PRP370-SAEON/User%20stories%20and%20tasks.pdf)
+
+Reflection 2: User Stories and Tasks
+
+The User Stories and Tasks document helped me understand how a technical project can be broken down into smaller requirements based on what users actually need. Our SAEON project aimed to make rainfall information easier to access by reducing the need for researchers to collect readings manually from remote stations.
+
+Before looking closely at the user stories, it was easy to focus mainly on the hardware and software that needed to be developed. However, the stories helped connect those technical components to the actual purpose of the system. Features such as monitoring rainfall, viewing live readings, accessing historical data and checking station health all had a specific benefit for the user.
+
+From an Agile perspective, I learned how important it is for requirements to be clear before tasks are assigned. If a user story is too broad or does not have proper acceptance criteria, it becomes difficult to determine whether the work is actually complete.
+
+I also learned that user stories should be connected to development tasks and testing evidence. In future projects, I would pay more attention to this connection from the beginning so that the team can identify missing requirements earlier.
+
+---
+
+## 3. Product Backlog
+
+📄 [View Product Backlog](PRP370-SAEON/Product%20Backlog.pdf)
+
+### My Personal Reflection
+
+Reflection 3: Product Backlog
+
+The Product Backlog was an important part of understanding how our SAEON project was organised over the 13-week development period. It provided an overview of the work required, from the initial planning and hardware setup to the dashboard development, testing and presentation preparation.
+
+As Agile Lead, task tracking and understanding the team's priorities were important parts of my role. The backlog helped me see how the different project activities were connected and why some tasks needed to be completed before others could begin. For example, the sensor and communication components were important because the dashboard depended on receiving data from the monitoring system.
+
+One of the biggest lessons I took from this was that a backlog should not be treated as a fixed list that never changes. Projects can experience delays, technical problems and changing priorities, especially when hardware and software are being developed together.
+
+I also understood the importance of recording progress accurately. Tasks such as final deployment and field validation should remain in progress until the necessary work and testing have been completed.
+
+This experience improved my understanding of prioritisation and project tracking. In future, I would make sure that each backlog item has clear ownership, acceptance criteria and supporting evidence.
+
+## 4. Sprint Backlog
+
+📄 [View Sprint Backlog](PRP370-SAEON/Sprint%20Backlog.pdf)
+
+### My Personal Reflection
+
+Reflection 4: Sprint Backlog
+
+The Sprint Backlog helped me understand how a larger project can be managed through smaller, more achievable stages. For our SAEON project, the work was organised into 13 weekly sprints, with activities planned from Tuesday to Friday.
+
+My role as Agile Lead involved understanding sprint goals, following the progress of tasks and helping keep the team focused on the work that needed attention. I learned that sprint planning is not simply about deciding what should be completed during a particular week. It also involves understanding dependencies, available time and possible obstacles.
+
+Our project involved both physical components and software development, which made coordination important. Work on the sensors, cellular communication, cloud integration and dashboard could affect other parts of the system. This helped me understand why teams need to communicate when something is delayed or when a task is not ready for testing.
+
+Another important lesson was that reaching the end of a sprint does not automatically mean every task has been completed successfully. Outstanding work still needs to be tracked and reviewed.
+
+If I were managing another project, I would place more emphasis on recording sprint feedback, identifying blockers early and keeping evidence of completed tasks. This would make it easier to measure progress and improve future sprint planning.
+
+
+
+## 5. Agile Logbook
+
+📄 [View My Agile Logbook](PRP370-SAEON/Agile%20Logbook.pdf)
+
+### My Personal Reflection
+
+Reflection 5: Agile Logbook
+
+The Agile Logbook was especially relevant to me because it relates directly to my responsibilities as the Agile Lead. It provided a way to reflect on the project's progress, the activities that needed coordination and the challenges involved in working towards our goals.
+
+The logbook covered the 13-week project period and included activities related to planning, monitoring progress, following up on tasks and preparing for the presentation. Looking back at these activities helped me understand that an Agile Lead does more than organise meetings. The role also requires communication, consistency and an awareness of how different parts of the project affect one another.
+
+One important thing I learned was the value of recording information while work is happening. When daily progress, decisions or problems are not documented properly, it becomes difficult to remember the exact details later. This showed me why a logbook should be maintained throughout a project rather than reconstructed near the end.
+
+Reflecting on my role also helped me identify an area where I can improve: keeping clearer records of meetings, decisions, outstanding tasks and supporting evidence.
+
+Overall, the project gave me a better understanding of Agile coordination and the responsibilities involved in helping a development team work towards a shared objective. I believe these are skills that will be useful when I work with development teams in the future.
+
+
 # 📌 References
 
 ### NCC Environmental Services
