@@ -126,9 +126,10 @@ The project focused on identifying user pain points and creating a more intuitiv
 
 ## 1. Agile Team Charter
 
+### Evidence
 📄 [View Agile Team Charter](PRP370-SAEON/Agile%20Team%20Charter.pdf)
 
-Reflection 1: Agile Team Charter
+### My Personal Reflection: Agile Team Charter
 
 Working on the SAEON Real-Time Rainfall Monitoring System helped me understand why an Agile Team Charter is important when working in a group. As the Agile Lead, my responsibility was to help keep the team organised, encourage communication and make sure that everyone understood what needed to be done.
 
@@ -142,9 +143,10 @@ This experience helped me develop a better understanding of leadership and teamw
 
 ## 2. User Stories and Tasks
 
+### Evidence
 📄 [View User Stories and Tasks](PRP370-SAEON/User%20stories%20and%20tasks.pdf)
 
-Reflection 2: User Stories and Tasks
+### My Personal Reflection: User Stories and Tasks
 
 The User Stories and Tasks document helped me understand how a technical project can be broken down into smaller requirements based on what users actually need. Our SAEON project aimed to make rainfall information easier to access by reducing the need for researchers to collect readings manually from remote stations.
 
@@ -158,11 +160,10 @@ I also learned that user stories should be connected to development tasks and te
 
 ## 3. Product Backlog
 
+### Evidence
 📄 [View Product Backlog](PRP370-SAEON/Product%20Backlog.pdf)
 
-### My Personal Reflection
-
-Reflection 3: Product Backlog
+### My Personal Reflection: Product Backlog
 
 The Product Backlog was an important part of understanding how our SAEON project was organised over the 13-week development period. It provided an overview of the work required, from the initial planning and hardware setup to the dashboard development, testing and presentation preparation.
 
@@ -176,11 +177,10 @@ This experience improved my understanding of prioritisation and project tracking
 
 ## 4. Sprint Backlog
 
+### Evidence
 📄 [View Sprint Backlog](PRP370-SAEON/Sprint%20Backlog.pdf)
 
-### My Personal Reflection
-
-Reflection 4: Sprint Backlog
+### My Personal Reflection: Sprint Backlog
 
 The Sprint Backlog helped me understand how a larger project can be managed through smaller, more achievable stages. For our SAEON project, the work was organised into 13 weekly sprints, with activities planned from Tuesday to Friday.
 
@@ -196,11 +196,10 @@ If I were managing another project, I would place more emphasis on recording spr
 
 ## 5. Agile Logbook
 
+### Evidence
 📄 [View My Agile Logbook](PRP370-SAEON/Agile%20Logbook.pdf)
 
-### My Personal Reflection
-
-Reflection 5: Agile Logbook
+### My Personal Reflection: Agile Logbook
 
 The Agile Logbook was especially relevant to me because it relates directly to my responsibilities as the Agile Lead. It provided a way to reflect on the project's progress, the activities that needed coordination and the challenges involved in working towards our goals.
 
