@@ -67,7 +67,7 @@ Currently seeking a <b>Work Integrated Learning (WIL) internship</b> to apply te
 
 # 💼 Work Experience
 
-### 🚚 NCC Environmental Services  
+### NCC Environmental Services  
 **Driver / Field Team Assistant**  
 2025 – 2026  
 
