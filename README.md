@@ -210,6 +210,28 @@ This role helped me develop leadership, communication, teamwork and Agile projec
 
 ---
 
+
+---
+
+## 📋 Agile Project Management – Trello
+
+Our team used Trello to organise and monitor the development of the SAEON Real-Time Rainfall Monitoring System.
+
+Trello helped us:
+
+- Organise tasks into weekly sprints.
+- Assign and track development activities.
+- Monitor project progress and outstanding work.
+- Improve communication and accountability.
+
+### SAEON Trello Board
+
+![SAEON Trello Project Board](PRP370-SAEON/SAEON-Trello-Board.jpeg)
+
+*Figure 1: SAEON Trello board showing the Product Backlog, Sprint In Progress and Work Completed workflow columns.*
+
+---
+
 # 📚 Agile Portfolio Evidence and Personal Reflections
 
 ---
