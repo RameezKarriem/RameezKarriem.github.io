@@ -153,7 +153,7 @@ The system aims to reduce manual data collection and allow SAEON researchers to 
 
 - **ESP32 WROOM-32:** Main microcontroller that processes sensor readings.
 - **TR-525M Rain Gauge:** Measures rainfall using a tipping-bucket mechanism.
-- **DS18B20 Sensor:** Measures environmental temperature.
+- **SHT31 Sensor:** Measures environmental temperature.
 - **SIM7000G Module:** Provides cellular communication without requiring Wi-Fi.
 - **Solar Panel and Battery:** Support remote power supply.
 - **PCB and Enclosure:** Support hardware assembly and outdoor deployment preparation.
@@ -161,8 +161,7 @@ The system aims to reduce manual data collection and allow SAEON researchers to 
 ### Software and Technologies
 
 - **MQTT:** Communication protocol used to transmit sensor data.
-- **HiveMQ Cloud:** Receives data sent by the monitoring station.
-- **Supabase:** Stores environmental measurements for historical access.
+- **Firebase:** Stores environmental measurements for historical access.
 - **Web Dashboard:** Displays rainfall, temperature and station information.
 - **Trello:** Used for Agile task management and progress tracking.
 - **GitHub:** Used for project documentation, source code and evidence.
@@ -171,7 +170,7 @@ The system aims to reduce manual data collection and allow SAEON researchers to 
 
 The rain gauge and temperature sensor collect environmental measurements. The ESP32 processes these readings and uses the SIM7000G cellular module to transmit data through MQTT to HiveMQ Cloud.
 
-The data is then stored through Supabase and made accessible through a web dashboard, allowing researchers to view current and historical environmental information.
+The data is then stored through Firebase and made accessible through a web dashboard, allowing researchers to view current and historical environmental information.
 
 **System Data Flow:**
 
