@@ -117,15 +117,14 @@ The project focused on identifying user pain points and creating a more intuitiv
 
 ---
 
+# 🌧️ SAEON Real-Time Rainfall Monitoring System
 
-# 🌧️  SAEON Real-Time Rainfall Monitoring System
-
-**Student:** Rameez Karriem   
+**Student:** Rameez Karriem  
 **Institution:** Cape Peninsula University of Technology (CPUT)  
 **My Role:** Agile Lead and Presenter  
-**Project Start Date:** 28 July 2026  
-**Project End Date (Reporting Period):** 23 October 2026  
-**Duration:** 13 Weeks  
+**Project Start Date (Reporting Period):** 28 July 2026  
+**Reporting Period End:** 23 October 2026  
+**Duration:** 13 Weeks
 
 ---
 
@@ -133,17 +132,17 @@ The project focused on identifying user pain points and creating a more intuitiv
 
 The **South African Environmental Observation Network (SAEON)** is a national research network that collects environmental data to support climate research, ecological studies and environmental monitoring.
 
-Our group developed an **IoT-based Real-Time Rainfall Monitoring System** to improve how rainfall and temperature information is collected from remote monitoring stations.
+Our group worked on an **IoT-based Real-Time Rainfall Monitoring System** to improve how rainfall, temperature and humidity readings are collected from remote monitoring stations.
 
 ### The Problem
 
-Traditional USB data loggers require researchers to physically visit monitoring stations to retrieve environmental readings. This results in delayed information, additional travel costs and limited real-time monitoring.
+Traditional USB data loggers require researchers to physically visit monitoring stations to retrieve environmental readings. This can delay access to information, increase travel costs and limit real-time monitoring.
 
 ### Our Solution
 
-Our team developed an **ESP32-based IoT prototype** designed to automatically collect rainfall and temperature readings and transmit them through a cellular network to a cloud-connected dashboard.
+Our team developed an **ESP32-based IoT prototype** designed to collect environmental readings and transmit them through a cellular network to a cloud-connected dashboard.
 
-The system aims to reduce manual data collection and allow SAEON researchers to access environmental information remotely.
+The system aims to reduce manual data collection and allow SAEON researchers to access measurements remotely. Final outdoor deployment and field validation were still outstanding at the reporting cut-off.
 
 ---
 
@@ -153,28 +152,46 @@ The system aims to reduce manual data collection and allow SAEON researchers to 
 
 - **ESP32 WROOM-32:** Main microcontroller that processes sensor readings.
 - **TR-525M Rain Gauge:** Measures rainfall using a tipping-bucket mechanism.
-- **SHT31 Sensor:** Measures environmental temperature.
-- **SIM7000G Module:** Provides cellular communication without requiring Wi-Fi.
-- **Solar Panel and Battery:** Support remote power supply.
+- **DHT11 Sensor:** Used during initial temperature and humidity testing.
+- **SHT31 Sensor:** Selected for the final product to measure temperature and relative humidity; final verification evidence is still required.
+- **SIM7000G Module:** Provides cellular communication without requiring local Wi-Fi.
+- **Solar Panel and Battery:** Support the planned remote power supply.
 - **PCB and Enclosure:** Support hardware assembly and outdoor deployment preparation.
 
 ### Software and Technologies
 
-- **MQTT:** Communication protocol used to transmit sensor data.
-- **Firebase:** Stores environmental measurements for historical access.
-- **Web Dashboard:** Displays rainfall, temperature and station information.
+- **MQTT:** Communication protocol used to transmit sensor readings.
+- **HiveMQ Cloud:** MQTT broker that receives messages from the station.
+- **Backend Ingestion Service:** Subscribes to MQTT messages, validates readings and writes records to Firebase.
+- **Firebase:** Database platform for storing and retrieving environmental measurements.
+- **Web Dashboard:** Provides current and historical measurements and station information.
 - **Trello:** Used for Agile task management and progress tracking.
-- **GitHub:** Used for project documentation, source code and evidence.
+- **GitHub:** Used for source code, project documentation and portfolio evidence.
+
+### Dashboard Features
+
+The dashboard requirements include:
+
+- Current rainfall, temperature and humidity readings.
+- Historical records, charts and filtering by station and date.
+- CSV export for further data analysis.
+- Station health and battery information.
+- Secure sign-in and protected access.
+- Responsive layouts for desktop, tablet and mobile devices.
+
+These features form part of the project scope; final acceptance depends on implementation and test evidence.
 
 ### ⚙️ How the System Works
 
-The rain gauge and temperature sensor collect environmental measurements. The ESP32 processes these readings and uses the SIM7000G cellular module to transmit data through MQTT to HiveMQ Cloud.
+The TR-525M rain gauge measures rainfall, while the SHT31 was selected to measure temperature and humidity in the final product. The DHT11 was used during initial testing.
 
-The data is then stored through Firebase and made accessible through a web dashboard, allowing researchers to view current and historical environmental information.
+The ESP32 WROOM-32 processes sensor readings and uses the SIM7000G cellular module to transmit them through MQTT to HiveMQ Cloud. A **backend ingestion service** then receives and validates the messages before storing valid records in **Firebase**.
 
-**System Data Flow:**
+The web dashboard is designed to display current and historical environmental information so that researchers can monitor stations remotely. Although integration tasks were reported as completed, final sensor verification and field-validation evidence were still required.
 
-`Sensors → ESP32 → SIM7000G → HiveMQ Cloud → Supabase → Dashboard`
+**Planned System Data Flow:**
+
+`Sensors → ESP32 WROOM-32 → SIM7000G → HiveMQ Cloud (MQTT) → Backend Ingestion Service → Firebase → Web Dashboard`
 
 ---
 
@@ -184,12 +201,14 @@ The SAEON project followed a **13-week Agile development schedule**.
 
 - **Start Date:** 28 July 2026
 - **Reporting Period End:** 23 October 2026
-- **Working Days:** Tuesday to Friday
-- **Total Sprints:** 13 weekly sprints
+- **Recorded Working Days:** Tuesday to Friday
+- **Total Sprints:** 13 weekly sprint periods
 
-Development included project planning, sensor integration, cloud connectivity, dashboard development, hardware preparation, testing and presentation activities.
+Development included project planning, sensor integration, cloud connectivity, dashboard development, power and hardware preparation, testing, documentation and presentation activities.
 
-At the reporting cut-off, final deployment, baseline field calibration and the 48-hour field test remained In Progress.
+At the reporting cut-off, **43 original task cards were reported Completed**, while **six deployment and field-validation tasks remained In Progress**. These included final deployment, baseline calibration and the stages of the 48-hour field test. Final SHT31 verification and Firebase authentication/access-rule evidence also required confirmation.
+
+The reporting period end date is **not a claim that final field acceptance was completed**.
 
 ---
 
@@ -210,9 +229,6 @@ This role helped me develop leadership, communication, teamwork and Agile projec
 
 ---
 
-
----
-
 ## 📋 Agile Project Management – Trello
 
 Our team used Trello to organise and monitor the development of the SAEON Real-Time Rainfall Monitoring System.
@@ -224,11 +240,13 @@ Trello helped us:
 - Monitor project progress and outstanding work.
 - Improve communication and accountability.
 
+The team's working agreement called for weekly planning and three progress check-ins per week, with reviews and retrospectives after project milestones.
+
 ### SAEON Trello Board
 
 ![SAEON Trello Project Board](PRP370-SAEON/SAEON-Trello-Board.jpeg)
 
-*Figure 1: SAEON Trello board showing the Product Backlog, Sprint In Progress and Work Completed workflow columns.*
+*Figure 1: SAEON Trello board used to track the Product Backlog, In Progress and Completed workflow stages.*
 
 ---
 
