@@ -250,6 +250,23 @@ The team's working agreement called for weekly planning and three progress check
 
 ---
 
+## 🎥 SAEON Prototype Testing Videos
+
+As part of our SAEON Real-Time Rainfall Monitoring
+System project, our team conducted practical hardware
+development and sensor testing.
+
+Video demonstrations include:
+
+- 🌧️ Rainfall Sensor Testing
+- 🌱 Soil Moisture Sensor Testing
+- 🌡️ Temperature and Humidity Testing
+- 💻 Prototype and Dashboard Demonstration
+
+**[▶️ CLICK HERE TO WATCH THE SAEON PROJECT VIDEOS](PRP370-SAEON/README.md)**
+
+--- 
+
 # 📚 Agile Portfolio Evidence and Personal Reflections
 
 ---
