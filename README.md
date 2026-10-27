@@ -256,11 +256,11 @@ The team's working agreement called for weekly planning and three progress check
 
 ## 🎓 Graduate Attributes and Portfolio Evidence
 
-This document explains how the SAEON Real-Time Rainfall Monitoring System relates to the four CPUT graduate attributes: Ubuntu, Technological Capability and Foresight, Resilience and Problem Solving, and Ethical Capability.
+This document explains how the SAEON project demonstrates the four CPUT graduate attributes: Ubuntu, Technological Capability and Foresight, Resilience and Problem Solving, and Ethical Capability.
 
-It also identifies supporting project evidence, individual team contributions and areas requiring further verification.
+It also outlines our team contributions and the evidence supporting our development activities.
 
-📄 **[View SAEON Graduate Attributes and Portfolio Evidence (PDF)](PRP370-SAEON/SAEON-Graduate-Attributes-and-Portfolio-Evidence.pdf)**
+📄 **[View SAEON Graduate Attributes and Portfolio Evidence (PDF)](PRP370-SAEON/SAEON%20Graduate%20Attributes%20and%20Portfolio%20Evidence%281%29.pdf)**
 
 ---
 
