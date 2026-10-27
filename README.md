@@ -122,12 +122,112 @@ The project focused on identifying user pain points and creating a more intuitiv
 
 ## SAEON Real-Time Rainfall Monitoring System
 
-**My Role:** Agile Lead and Presenter
+**Student:** Rameez Karriem  
+**Student Number:** 222357320  
+**Institution:** Cape Peninsula University of Technology (CPUT)  
+**My Role:** Agile Lead and Presenter  
+**Project Start Date:** 28 July 2026  
+**Project End Date (Reporting Period):** 23 October 2026  
+**Duration:** 13 Weeks  
+**Methodology:** Agile – Kanban with Weekly Sprint Planning
+
+---
+
+## 🌍 About the Project
+
+The **South African Environmental Observation Network (SAEON)** is a national research network that collects environmental data to support climate research, ecological studies and environmental monitoring.
+
+Our group developed an **IoT-based Real-Time Rainfall Monitoring System** to improve how rainfall and temperature information is collected from remote monitoring stations.
+
+### The Problem
+
+Traditional USB data loggers require researchers to physically visit monitoring stations to retrieve environmental readings. This results in delayed information, additional travel costs and limited real-time monitoring.
+
+### Our Solution
+
+Our team developed an **ESP32-based IoT prototype** designed to automatically collect rainfall and temperature readings and transmit them through a cellular network to a cloud-connected dashboard.
+
+The system aims to reduce manual data collection and allow SAEON researchers to access environmental information remotely.
+
+---
+
+## 🔧 Hardware and Technologies Used
+
+### Hardware Components
+
+- **ESP32 WROOM-32:** Main microcontroller that processes sensor readings.
+- **TR-525M Rain Gauge:** Measures rainfall using a tipping-bucket mechanism.
+- **DS18B20 Sensor:** Measures environmental temperature.
+- **SIM7000G Module:** Provides cellular communication without requiring Wi-Fi.
+- **Solar Panel and Battery:** Support remote power supply.
+- **PCB and Enclosure:** Support hardware assembly and outdoor deployment preparation.
+
+### Software and Technologies
+
+- **MQTT:** Communication protocol used to transmit sensor data.
+- **HiveMQ Cloud:** Receives data sent by the monitoring station.
+- **Supabase:** Stores environmental measurements for historical access.
+- **Web Dashboard:** Displays rainfall, temperature and station information.
+- **Trello:** Used for Agile task management and progress tracking.
+- **GitHub:** Used for project documentation, source code and evidence.
+
+### ⚙️ How the System Works
+
+The rain gauge and temperature sensor collect environmental measurements. The ESP32 processes these readings and uses the SIM7000G cellular module to transmit data through MQTT to HiveMQ Cloud.
+
+The data is then stored through Supabase and made accessible through a web dashboard, allowing researchers to view current and historical environmental information.
+
+**System Data Flow:**
+
+`Sensors → ESP32 → SIM7000G → HiveMQ Cloud → Supabase → Dashboard`
+
+---
+
+## 📅 Project Timeline
+
+The SAEON project followed a **13-week Agile development schedule**.
+
+- **Start Date:** 28 July 2026
+- **Reporting Period End:** 23 October 2026
+- **Working Days:** Tuesday to Friday
+- **Total Sprints:** 13 weekly sprints
+
+Development included project planning, sensor integration, cloud connectivity, dashboard development, hardware preparation, testing and presentation activities.
+
+At the reporting cut-off, final deployment, baseline field calibration and the 48-hour field test remained In Progress.
+
+---
+
+## 👥 My Role – Agile Lead and Presenter
+
+As the **Agile Lead and Presenter**, my responsibilities involved supporting the organisation and coordination of our team's development activities.
+
+My responsibilities included:
+
+- Supporting sprint planning and team meetings.
+- Tracking tasks and project progress using Trello.
+- Encouraging communication and collaboration.
+- Helping identify outstanding tasks and challenges.
+- Maintaining my personal Agile Logbook.
+- Preparing and presenting project information.
+
+This role helped me develop leadership, communication, teamwork and Agile project management skills.
+
+---
+
+# 📚 Agile Portfolio Evidence and Personal Reflections
+
+The following sections contain my five Agile documentation artefacts and personal reflections for **PRP370 Assessment 2**.
+
+---
 
 ## 1. Agile Team Charter
 
 ### Evidence
+
 📄 [View Agile Team Charter](PRP370-SAEON/Agile%20Team%20Charter.pdf)
+
+The Agile Team Charter outlines our team's purpose, responsibilities, working agreements and communication arrangements.
 
 ### My Personal Reflection: Agile Team Charter
 
@@ -144,7 +244,10 @@ This experience helped me develop a better understanding of leadership and teamw
 ## 2. User Stories and Tasks
 
 ### Evidence
+
 📄 [View User Stories and Tasks](PRP370-SAEON/User%20stories%20and%20tasks.pdf)
+
+This document outlines system requirements, user stories, acceptance criteria and development tasks.
 
 ### My Personal Reflection: User Stories and Tasks
 
@@ -161,7 +264,10 @@ I also learned that user stories should be connected to development tasks and te
 ## 3. Product Backlog
 
 ### Evidence
+
 📄 [View Product Backlog](PRP370-SAEON/Product%20Backlog.pdf)
+
+The Product Backlog outlines project activities, priorities and task progress throughout development.
 
 ### My Personal Reflection: Product Backlog
 
@@ -175,10 +281,15 @@ I also understood the importance of recording progress accurately. Tasks such as
 
 This experience improved my understanding of prioritisation and project tracking. In future, I would make sure that each backlog item has clear ownership, acceptance criteria and supporting evidence.
 
+---
+
 ## 4. Sprint Backlog
 
 ### Evidence
+
 📄 [View Sprint Backlog](PRP370-SAEON/Sprint%20Backlog.pdf)
+
+The Sprint Backlog breaks down the project into weekly sprint goals, assigned tasks and progress updates.
 
 ### My Personal Reflection: Sprint Backlog
 
@@ -192,12 +303,15 @@ Another important lesson was that reaching the end of a sprint does not automati
 
 If I were managing another project, I would place more emphasis on recording sprint feedback, identifying blockers early and keeping evidence of completed tasks. This would make it easier to measure progress and improve future sprint planning.
 
-
+---
 
 ## 5. Agile Logbook
 
 ### Evidence
+
 📄 [View My Agile Logbook](PRP370-SAEON/Agile%20Logbook.pdf)
+
+My Agile Logbook records personal progress, planned activities and possible challenges throughout the project.
 
 ### My Personal Reflection: Agile Logbook
 
@@ -210,6 +324,21 @@ One important thing I learned was the value of recording information while work 
 Reflecting on my role also helped me identify an area where I can improve: keeping clearer records of meetings, decisions, outstanding tasks and supporting evidence.
 
 Overall, the project gave me a better understanding of Agile coordination and the responsibilities involved in helping a development team work towards a shared objective. I believe these are skills that will be useful when I work with development teams in the future.
+
+---
+
+## 🎓 Overall Project Learning
+
+The SAEON project gave me a better understanding of IoT technologies, Agile development and how hardware and software work together.
+
+As Agile Lead and Presenter, I developed valuable skills in teamwork, communication, task coordination and project management that I can apply in future software development projects.
+
+---
+
+**PRP370 Assessment 2 | SAEON Real-Time Rainfall Monitoring System | 2026**
+
+**Rameez Karriem – Agile Lead and Presenter**  
+*Cape Peninsula University of Technology*
 
 
 # 📌 References
