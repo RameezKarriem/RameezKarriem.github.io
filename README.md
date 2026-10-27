@@ -118,18 +118,14 @@ The project focused on identifying user pain points and creating a more intuitiv
 ---
 
 
-# 🌧️ PRP370 Assessment 2 – SAEON
+# 🌧️  SAEON Real-Time Rainfall Monitoring System
 
-## SAEON Real-Time Rainfall Monitoring System
-
-**Student:** Rameez Karriem  
-**Student Number:** 222357320  
+**Student:** Rameez Karriem   
 **Institution:** Cape Peninsula University of Technology (CPUT)  
 **My Role:** Agile Lead and Presenter  
 **Project Start Date:** 28 July 2026  
 **Project End Date (Reporting Period):** 23 October 2026  
 **Duration:** 13 Weeks  
-**Methodology:** Agile – Kanban with Weekly Sprint Planning
 
 ---
 
