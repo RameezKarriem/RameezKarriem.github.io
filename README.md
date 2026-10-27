@@ -260,7 +260,7 @@ This document explains how the SAEON project demonstrates the four CPUT graduate
 
 It also outlines our team contributions and the evidence supporting our development activities.
 
-📄 **[View SAEON Graduate Attributes and Portfolio Evidence (PDF)](PRP370-SAEON/SAEON%20Graduate%20Attributes%20and%20Portfolio%20Evidence%281%29.pdf)**
+📄 **[View SAEON Graduate Attributes and Portfolio Evidence (PDF)](PRP370-SAEON/SAEON%20Graduate%20Attributes%20and%20Portfolio%20Evidence.pdf)**
 
 ---
 
