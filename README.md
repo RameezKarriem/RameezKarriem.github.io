@@ -213,8 +213,6 @@ This role helped me develop leadership, communication, teamwork and Agile projec
 
 # 📚 Agile Portfolio Evidence and Personal Reflections
 
-The following sections contain my five Agile documentation artefacts and personal reflections for **PRP370 Assessment 2**.
-
 ---
 
 ## 1. Agile Team Charter
